@@ -1,4 +1,3 @@
-# Waydroid-Helper
 # **Waydroid Helper**  
 **A Lomiri System Settings plugin for managing Waydroid containers and Android apps on Ubuntu Touch.**
 
